@@ -13,4 +13,4 @@ Investing.com download Silver and Gold CSVs Import Investpy Python library for i
 # Tools and Graphs Used
 Jupyter Notebook Panda Python Matplotlib SQL API - weatherpy is example?
 
-![alt test](https://github.com/jeffhoffmanmba/ETL-Project/blob/master/Images/Jerome-Powell.jpg)
+![alt test](https://github.com/jeffhoffmanmba/ETL_Project_Commodities/blob/master/Images/Jerome-Powell.jpg)
