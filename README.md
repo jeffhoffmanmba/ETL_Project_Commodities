@@ -21,6 +21,8 @@ As shown in the scatterplot and linear regression, there is a strong correlation
 4) article: https://www.nytimes.com/2020/08/27/business/economy/federal-reserve-inflation-jerome-powell.html
 
 # Tools and Graphs Used
-Jupyter Notebook Panda Python Matplotlib SQL API - weatherpy is example?
+1) Postgres
+2) Jupyter Notebook 
+3) Panda, Python, Matplotlib
 
 ![alt test](https://github.com/jeffhoffmanmba/ETL_Project_Commodities/blob/master/Images/Jerome-Powell.jpg)
