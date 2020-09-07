@@ -8,7 +8,10 @@ Commodity prices are believed to be a leading indicator of inflation. On about A
 This project entails extracting, loading and transforming correlating data on Commodity (silver, gold), consumer prices (annual %) and Inflation (around the world)
 
 # Data Sources:
-Investing.com download Silver and Gold CSVs Import Investpy Python library for investing.com article: https://www.nytimes.com/2020/08/27/business/economy/federal-reserve-inflation-jerome-powell.html
+1) Silver CSV - Investing.com 
+2) Gold CSV - Investing.com
+3) Import Investpy Python - library for investing.com 
+4) article: https://www.nytimes.com/2020/08/27/business/economy/federal-reserve-inflation-jerome-powell.html
 
 # Tools and Graphs Used
 Jupyter Notebook Panda Python Matplotlib SQL API - weatherpy is example?
