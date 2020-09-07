@@ -5,12 +5,16 @@ Commodity prices are believed to be a leading indicator of inflation. On about A
 “It seems like a pretty subtle shift to most normal human beings,” said Janet L. Yellen, the former Fed Chair. But “most of the Fed’s history has revolved around keeping inflation under control. This really does reflect a decisive recognition that we're in a very different environment.”
 
 # Project Scope:
-This project entails extracting, loading and transforming correlating data on Commodity (silver, gold), consumer prices (annual %) and Inflation (around the world)
+This project entails extracting, loading and transforming data on Commodities (silver, gold, energy), crypto (a correlation to inflation) and consumer price index (CPI)
+
+![alt test](https://github.com/jeffhoffmanmba/ETL_Project_Commodities/blob/master/Graphs/commodity_cpi_comparisons.png)
 
 # Data Sources:
 1) Silver CSV - Investing.com 
 2) Gold CSV - Investing.com
-3) Import Investpy Python - library for investing.com 
+3) Energy - Investpy Python - library for investing.com
+4) API from Bureau of Labor Statistics - CPI
+5) Crypto - Investpy Python
 4) article: https://www.nytimes.com/2020/08/27/business/economy/federal-reserve-inflation-jerome-powell.html
 
 # Tools and Graphs Used
