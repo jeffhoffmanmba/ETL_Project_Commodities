@@ -9,6 +9,9 @@ This project entails extracting, loading and transforming data on Commodities (s
 
 ![alt test](https://github.com/jeffhoffmanmba/ETL_Project_Commodities/blob/master/Graphs/commodity_cpi_comparisons.png)
 
+# Observation:
+As shown in the scatterplot and linear regression, there is a strong correlation between energy price and CPI. while the other commodities show stronger correlation over the 10 year time period, they don't consistently correlate to CPI as energy price has
+
 # Data Sources:
 1) Silver CSV - Investing.com 
 2) Gold CSV - Investing.com
